@@ -1,0 +1,4 @@
+#Wed Mar 17 11:06:17 PKT 2021
+base.0=H\:\\fvue2\\test\\platforms\\android\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

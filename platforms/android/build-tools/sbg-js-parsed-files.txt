@@ -1,0 +1,4 @@
+H:\fvue2\test\platforms\android\app\src\main\assets\app\bundle.js
+H:\fvue2\test\platforms\android\app\src\main\assets\app\runtime.js
+H:\fvue2\test\platforms\android\app\src\main\assets\app\tns-java-classes.js
+H:\fvue2\test\platforms\android\app\src\main\assets\app\vendor.js
