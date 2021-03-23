@@ -1,6 +1,4 @@
-# NativeScript-Vue Application
 
-> A native application built with NativeScript-Vue
 
 ## These are the instructions on how to make app work.
 
